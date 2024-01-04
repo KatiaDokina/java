@@ -3,7 +3,7 @@ package lesson1.task1;
 public class Book {
     private String title;
     private int pages;
-    private String Author;
+    private String author;
     private String genre;
 
     public Book() {
