@@ -26,11 +26,11 @@ public class Book {
     }
 
     public String getAuthor() {
-        return Author;
+        return author;
     }
 
     public void setAuthor(String author) {
-        Author = author;
+        this.author = author;
     }
 
     public String getGenre() {
@@ -44,7 +44,7 @@ public class Book {
     public Book(String title, int pages, String author, String genre) {
         this.title = title;
         this.pages = pages;
-        Author = author;
+        this.author = author;
         this.genre = genre;
     }
     @Override
@@ -52,7 +52,7 @@ public class Book {
         return "Book{" +
                 "title='" + title + '\'' +
                 ", pages=" + pages +
-                ", Author='" + Author + '\'' +
+                ", author='" + author + '\'' +
                 ", genre='" + genre + '\'' +
                 '}';
     }
