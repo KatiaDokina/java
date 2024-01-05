@@ -10,6 +10,7 @@ public class Start {
         books.add(new Book("The Girl You Left Behind",450,"Jojo Moyes","novel"));
         books.add(new Book("After You ",550,"Jojo Moyes","novel"));
         books.add(new Book("Still Me",500,"Jojo Moyes","novel"));
+
         for (Book book: books
              ) {
             System.out.println(book);
@@ -20,6 +21,7 @@ public class Start {
         cars.add(new Car("Škoda Scout ",200,2.0,"TDI"));
         cars.add(new Car("Hyundai Sonata",204,2.4,"GDI"));
         cars.add(new Car("Volkswagen CC",170,2.0,"TDI"));
+
         for (Car car: cars
              ) {
             System.out.println(car);
@@ -30,6 +32,7 @@ public class Start {
         dogs.add(new Dog("Maki",1,"staffordshire bull terrier"));
         dogs.add(new Dog("Mickey",1,"pomeranian spitz"));
         dogs.add(new Dog("Bella",2,"bouledogue français"));
+
         for (Dog dog: dogs
              ) {
             System.out.println(dog);
