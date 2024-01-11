@@ -4,42 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75c99c19-2994-4e87-a6bd-bc86ddafb734" name="Changes" comment="Add class Start.java and other&#10;practised with ArrayList">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lombok.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/lombok.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/task1/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/task1/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/task1/Geo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/task1/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/task2/Laptop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/task2/PC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/task2/Ultrabook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/task2/Workstation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/task3/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/task3/Comics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/task3/Magazine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/task3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/task3/Papyrus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/task4/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/task4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/task4/Skills.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/task4/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/task1/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/task1/Magazine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/task1/Printable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/task2/Drum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/task2/Guitar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/task2/Instrument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/task2/Trumpet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_core.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java_core.iml" afterDir="false" />
-    </list>
+    <list default="true" id="75c99c19-2994-4e87-a6bd-bc86ddafb734" name="Changes" comment="Add class Start.java and other&#10;practised with ArrayList" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -190,7 +155,7 @@
       <workItem from="1704554115347" duration="126000" />
       <workItem from="1704810418867" duration="12569000" />
       <workItem from="1704894109039" duration="10421000" />
-      <workItem from="1704976953411" duration="11565000" />
+      <workItem from="1704976953411" duration="12016000" />
     </task>
     <task id="LOCAL-00001" summary="Add class Start.java and other&#10;practised with ArrayList">
       <option name="closed" value="true" />
@@ -240,7 +205,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704414028645</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add class Start.java and other&#10;practised with ArrayList">
+      <option name="closed" value="true" />
+      <created>1704989964257</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1704989964257</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
