@@ -12,20 +12,11 @@ import java.util.ArrayList;
 public class Main {
     public static void main(String[] args) {
         ArrayList<Instrument> instruments = new ArrayList<>();
-        instruments.add(new Guitar("6"));
-        instruments.add(new Drum(50));
-        instruments.add(new Trumpet(20));
-
-        for ( Instrument instrument: instruments
-             ) {
-            Instrument instrument1 = new Instrument() {
-                @Override
-                public void play() {
-                    System.out.println(
-                            "Plays such and such an instrument with such characteristic" + " " + instrument);
-                }
-            };
-            instrument1.play();
+        instruments.add(new Guitar("6", "Guitar"));
+        instruments.add(new Drum(50, "Drum"));
+        instruments.add(new Trumpet(20, "Trumpet"));
+        for (Instrument instrument1: instruments
+             ) { instrument1.play();
         }
     }
 }

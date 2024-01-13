@@ -5,11 +5,16 @@ import lombok.Data;
 
 @Data
 @AllArgsConstructor
-public class Drum implements Instrument{
+public class Drum implements Instrument {
     private int size;
+    private String name;
+    public String greeting () {
+        return "Plays a" + " " + name + " " +"with the following size";
+    }
+
 
     @Override
     public void play() {
-
+        System.out.println(this.greeting() + " " + "-" + " " + size);
     }
 }

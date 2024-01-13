@@ -5,11 +5,16 @@ import lombok.Data;
 
 @Data
 @AllArgsConstructor
-public class Guitar implements Instrument{
+public class Guitar implements Instrument {
+
     private String numberOfStrings;
+    private String name;
+    public String greeting () {
+      return "Plays a" + " " + name + " with the following number Of Strings";
+    }
 
     @Override
-    public void play(){
-
+    public void play() {
+        System.out.println(this.greeting() + " " + "-" + " " + numberOfStrings);
     }
 }

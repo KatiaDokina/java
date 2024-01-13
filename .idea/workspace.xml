@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75c99c19-2994-4e87-a6bd-bc86ddafb734" name="Changes" comment="Add class Start.java and other&#10;practised with ArrayList" />
+    <list default="true" id="75c99c19-2994-4e87-a6bd-bc86ddafb734" name="Changes" comment="creat Interface">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson3/task2/Drum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson3/task2/Drum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson3/task2/Guitar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson3/task2/Guitar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson3/task2/Instrument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson3/task2/Instrument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson3/task2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson3/task2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson3/task2/Trumpet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson3/task2/Trumpet.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,25 +47,25 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master1",
-    "last_opened_file_path": "C:/Users/Admin/IdeaProjects/java_core/src/lesson3/task3",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master1&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/IdeaProjects/java_core/src/lesson3/task3&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Admin\IdeaProjects\java_core\src\lesson3\task3" />
@@ -155,7 +162,8 @@
       <workItem from="1704554115347" duration="126000" />
       <workItem from="1704810418867" duration="12569000" />
       <workItem from="1704894109039" duration="10421000" />
-      <workItem from="1704976953411" duration="12016000" />
+      <workItem from="1704976953411" duration="18040000" />
+      <workItem from="1705100117407" duration="5632000" />
     </task>
     <task id="LOCAL-00001" summary="Add class Start.java and other&#10;practised with ArrayList">
       <option name="closed" value="true" />
@@ -213,7 +221,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704989964257</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="creat Interface">
+      <option name="closed" value="true" />
+      <created>1704990563660</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1704990563660</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,7 +248,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add class Start.java and other&#10;practised with ArrayList" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add class Start.java and other&#10;practised with ArrayList" />
+    <MESSAGE value="creat Interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="creat Interface" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
