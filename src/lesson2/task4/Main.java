@@ -1,4 +1,9 @@
 package lesson2.task4;
+
+import java.util.ArrayList;
+
+import static lesson2.task4.Gender.MALE;
+
 //Створити клас котрий відповідає наступній моделі
 //        {
 //        id: 1,
@@ -12,4 +17,26 @@ package lesson2.task4;
 //        }
 //        Використати композицію/агрегацію та енуми в потрібному місці.
 public class Main {
+    public static void main(String[] args) {
+        ArrayList<Skill> skills = new ArrayList<>();
+        skills.add(new Skill("java", 10));
+        skills.add(new Skill("js", 10));
+        skills.add(new Skill("c++", 10));
+        Gender gender = MALE;
+        Car car = new Car("toyota", 2021,250);
+
+    User user = new User (1,"vasya","pupkin","asd@asd.com",31,gender,skills,car);
+        System.out.println(user);
+
+//        ArrayList<Skills> skills = new ArrayList<>();
+//        skills.add(new Skills("java", 10));
+//        skills.add(new Skills("js", 10));
+//        skills.add(new Skills("c++", 10));
+//        Gender gender = MALE;
+//        Car car = new Car("toyota", 2021,250);
+
+//        User user = new User (1,"vasya","pupkin","asd@asd.com",31, MALE,new ArrayList<Skills>(),
+//                new Car("toyata",2021,250));
+//        System.out.println(user);
+}
 }

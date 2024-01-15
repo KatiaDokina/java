@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75c99c19-2994-4e87-a6bd-bc86ddafb734" name="Changes" comment="creat Interface">
+      <change afterPath="$PROJECT_DIR$/src/lesson2/task4/Car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson3/task2/Drum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson3/task2/Drum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson3/task2/Guitar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson3/task2/Guitar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson3/task2/Instrument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson3/task2/Instrument.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson3/task2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson3/task2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson3/task2/Trumpet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson3/task2/Trumpet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson2/task4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson2/task4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson2/task4/Skills.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson2/task4/Skills.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson2/task4/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson2/task4/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +20,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -73,13 +72,13 @@
       <recent name="C:\Users\Admin\IdeaProjects\java_core\libs" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.lesson3.task2.Main">
+  <component name="RunManager" selected="Application.lesson2.task4.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson2.task1.Main" />
+      <option name="MAIN_CLASS_NAME" value="lesson2.task4.Main" />
       <module name="java_core" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson2.task1.*" />
+          <option name="PATTERN" value="lesson2.task4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lesson3.task2.Main" />
-        <item itemvalue="Application.lesson3.task1.Main" />
+        <item itemvalue="Application.lesson2.task4.Main" />
         <item itemvalue="Application.lesson2.task3.Main" />
         <item itemvalue="Application.lesson2.task2.Main" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.lesson3.task2.Main" />
+        <item itemvalue="Application.lesson3.task1.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +162,8 @@
       <workItem from="1704810418867" duration="12569000" />
       <workItem from="1704894109039" duration="10421000" />
       <workItem from="1704976953411" duration="18040000" />
-      <workItem from="1705100117407" duration="5632000" />
+      <workItem from="1705100117407" duration="5900000" />
+      <workItem from="1705264169883" duration="11672000" />
     </task>
     <task id="LOCAL-00001" summary="Add class Start.java and other&#10;practised with ArrayList">
       <option name="closed" value="true" />
@@ -229,7 +229,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704990563660</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="creat Interface">
+      <option name="closed" value="true" />
+      <created>1705107163312</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1705107163312</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,6 +258,16 @@
     <MESSAGE value="Add class Start.java and other&#10;practised with ArrayList" />
     <MESSAGE value="creat Interface" />
     <option name="LAST_COMMIT_MESSAGE" value="creat Interface" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ClassCastException" package="java.lang" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
