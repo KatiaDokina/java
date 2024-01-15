@@ -28,15 +28,5 @@ public class Main {
     User user = new User (1,"vasya","pupkin","asd@asd.com",31,gender,skills,car);
         System.out.println(user);
 
-//        ArrayList<Skills> skills = new ArrayList<>();
-//        skills.add(new Skills("java", 10));
-//        skills.add(new Skills("js", 10));
-//        skills.add(new Skills("c++", 10));
-//        Gender gender = MALE;
-//        Car car = new Car("toyota", 2021,250);
-
-//        User user = new User (1,"vasya","pupkin","asd@asd.com",31, MALE,new ArrayList<Skills>(),
-//                new Car("toyata",2021,250));
-//        System.out.println(user);
 }
 }

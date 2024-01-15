@@ -26,24 +26,4 @@ public class User {
         this.email = email;
         this.age = age;
     }
-
-
-
-    //    public User(int id, String name, String surname, String email, int age, Gender gender, ArrayList<Skills> skills, Car car) {
-//        this.id = id;
-//        this.name = name;
-//        this.surname = surname;
-//        this.email = email;
-//        this.age = age;
-//        this.gender = gender;
-//        this.skills = ArrayList<Skills> skills = new ArrayList<>();
-//        skills.add(new Skills("java", 10));
-//        skills.add(new Skills("js", 10));
-//        skills.add(new Skills("c++", 10));
-//        this.car = car;
-//
-//
-//    }
 }
-
-
